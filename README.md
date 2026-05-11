@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Virat Patel
 
-<!--
-**vpatel369/vpatel369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Building Virat Lab
 
-Here are some ideas to get you started:
+Open AI learning, automation, AI security, healthcare AI, and future-ready workflow systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Current Focus
+
+- AI Security
+- Agentic AI
+- Healthcare AI
+- Automation Systems
+- Prompt Engineering
+- AI Workflows
+- AI Research
+
+---
+
+# Projects
+
+## Virat Lab
+Open-source AI learning ecosystem.
+
+Repository:
+https://github.com/vpatel369/virat-lab
+
+Website:
+https://www.viratlabs.com/
+
+---
+
+# Learning Goals
+
+Currently learning:
+- AI workflows
+- Python automation
+- GitHub systems
+- AI security
+- agentic workflows
+- cloud + identity security
+
+---
+
+# Vision
+
+Build practical AI systems and learning platforms that help people become future-ready in the AI era.
+
+---
+
+# Connect
+
+GitHub:
+https://github.com/vpatel369
+
+Website:
+https://www.viratlabs.com/
